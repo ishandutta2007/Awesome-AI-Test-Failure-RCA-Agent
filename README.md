@@ -74,45 +74,45 @@ The global software testing and quality engineering market is estimated at **$45
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are open-source repositories sorted by star count (descending), each with direct links to their stargazers page:
+Below are open-source repositories sorted by Stars_Count (descending), each with direct links to their stargazers page:
 
-### 1. [Arize Phoenix](https://github.com/Arize-ai/phoenix) [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)
+### 1. [Arize Phoenix](https://github.com/Arize-ai/phoenix) [![GitHub_Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)
 * **Description:** AI observability, evaluation, and root-cause tracing for LLM applications and AI agent workflows. Captures complete multi-agent execution traces, evaluates failure modes (hallucinations, context misses, invalid tool calls), and isolates non-deterministic agent test regressions.
 * **Tech Stack:** Python, OpenTelemetry, React.
 * **License:** Apache 2.0.
 * **Key Strengths:** Traces deep agent trajectories; ideal when the software *under test* is an autonomous LLM agent.
 
-### 2. [Allure Report (Allure2)](https://github.com/allure-framework/allure2) [![GitHub stars](https://img.shields.io/github/stars/allure-framework/allure2?style=social&color=white)](https://github.com/allure-framework/allure2/stargazers)
+### 2. [Allure Report (Allure2)](https://github.com/allure-framework/allure2) [![GitHub_Stars](https://img.shields.io/github/stars/allure-framework/allure2?style=social&color=white)](https://github.com/allure-framework/allure2/stargazers)
 * **Description:** Flexible, lightweight, multi-language test reporting framework. Generates rich visual representations of test execution grids, step-by-step failures, logs, attachments, and historical flakiness trends across 20+ testing frameworks.
 * **Tech Stack:** Java, TypeScript, Multi-language SDKs.
 * **License:** Apache 2.0.
 * **Key Strengths:** Universal test reporting backbone; seamless integrations with JUnit, TestNG, Pytest, Playwright, Cypress, and Cucumber.
 
-### 3. [ReportPortal](https://github.com/reportportal/reportportal) [![GitHub stars](https://img.shields.io/github/stars/reportportal/reportportal?style=social&color=white)](https://github.com/reportportal/reportportal/stargazers)
+### 3. [ReportPortal](https://github.com/reportportal/reportportal) [![GitHub_Stars](https://img.shields.io/github/stars/reportportal/reportportal?style=social&color=white)](https://github.com/reportportal/reportportal/stargazers)
 * **Description:** Enterprise AI-powered test automation dashboard and failure analysis platform used by 1,700+ organizations. Features a dedicated Machine Learning Auto-Analyzer service (`service-auto-analyzer`) that clusters test failures and correlates root causes with known past defects.
 * **Tech Stack:** Java, Spring, React, PostgreSQL, Docker/Kubernetes.
 * **License:** Apache 2.0.
 * **Key Strengths:** Real-time analytics, automated ML quality gates, historical defect linking, and high-volume test ingestion.
 
-### 4. [Tracely AI](https://github.com/Jwuthri/Tracely-ai) [![GitHub stars](https://img.shields.io/github/stars/Jwuthri/Tracely-ai?style=social&color=white)](https://github.com/Jwuthri/Tracely-ai/stargazers)
+### 4. [Tracely AI](https://github.com/Jwuthri/Tracely-ai) [![GitHub_Stars](https://img.shields.io/github/stars/Jwuthri/Tracely-ai?style=social&color=white)](https://github.com/Jwuthri/Tracely-ai/stargazers)
 * **Description:** Trace-native CI/CD quality platform for AI agents. Grades execution traces, automatically clusters and isolates production and CI failure modes, freezes them into hermetic regression tests, and blocks pull requests that regress agent performance.
 * **Tech Stack:** Python, FastAPI, React.
 * **License:** Apache 2.0.
 * **Key Strengths:** Zero-cost deterministic replay in CI pipelines; transforms real-world failures into permanent regression test suites.
 
-### 5. [pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) [![GitHub stars](https://img.shields.io/github/stars/pytest-dev/pytest-rerunfailures?style=social&color=white)](https://github.com/pytest-dev/pytest-rerunfailures/stargazers)
+### 5. [pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) [![GitHub_Stars](https://img.shields.io/github/stars/pytest-dev/pytest-rerunfailures?style=social&color=white)](https://github.com/pytest-dev/pytest-rerunfailures/stargazers)
 * **Description:** Essential Pytest plugin that automatically re-runs failed tests up to *N* times to eliminate intermittent and environment-induced flaky test failures, providing detailed rerun reports.
 * **Tech Stack:** Python, Pytest.
 * **License:** Mozilla Public License 2.0 (MPL-2.0).
 * **Key Strengths:** Lightweight, instant CI integration to prevent build pipeline gridlock caused by transient environmental flakes.
 
-### 6. [AI CI/CD Failure Triage Agent](https://github.com/Vasishtha15/ai-cicd-failure-triage-agent) [![GitHub stars](https://img.shields.io/github/stars/Vasishtha15/ai-cicd-failure-triage-agent?style=social&color=white)](https://github.com/Vasishtha15/ai-cicd-failure-triage-agent/stargazers)
+### 6. [AI CI/CD Failure Triage Agent](https://github.com/Vasishtha15/ai-cicd-failure-triage-agent) [![GitHub_Stars](https://img.shields.io/github/stars/Vasishtha15/ai-cicd-failure-triage-agent?style=social&color=white)](https://github.com/Vasishtha15/ai-cicd-failure-triage-agent/stargazers)
 * **Description:** Autonomous GitHub Actions agent that analyzes CI/CD pipeline failures (unit/e2e tests, linter issues, dependencies, Docker build errors) using Anthropic Claude/OpenAI and posts structured root cause analysis with code fix suggestions directly onto PRs.
 * **Tech Stack:** TypeScript, GitHub Actions Toolkit, LLM API.
 * **License:** MIT.
 * **Key Strengths:** Plug-and-play GitHub Action; writes actionable root-cause comments directly onto developer pull requests.
 
-### 7. [TestTriage](https://github.com/subhashkhileri/TestTriage) [![GitHub stars](https://img.shields.io/github/stars/subhashkhileri/TestTriage?style=social&color=white)](https://github.com/subhashkhileri/TestTriage/stargazers)
+### 7. [TestTriage](https://github.com/subhashkhileri/TestTriage) [![GitHub_Stars](https://img.shields.io/github/stars/subhashkhileri/TestTriage?style=social&color=white)](https://github.com/subhashkhileri/TestTriage/stargazers)
 * **Description:** RAG-powered automated test failure triage agent specifically tailored for Playwright e2e and CI pipelines. Ingests GCS logs and failure artifacts, uses multi-modal AI vision to parse failure screenshots, diagnoses the root cause, and auto-files Jira tickets with fix proposals.
 * **Tech Stack:** Python, Playwright, LangChain/RAG, Vision LLMs.
 * **License:** MIT.
