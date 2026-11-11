@@ -100,19 +100,25 @@ Below are open-source repositories sorted by Stars_Count (descending), each with
 * **License:** Apache 2.0.
 * **Key Strengths:** Zero-cost deterministic replay in CI pipelines; transforms real-world failures into permanent regression test suites.
 
-### 5. [pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) [![GitHub_Stars](https://img.shields.io/github/stars/pytest-dev/pytest-rerunfailures?style=social&color=white)](https://github.com/pytest-dev/pytest-rerunfailures/stargazers)
+### 5. [agent-qa](https://vostride.com) [![GitHub_Stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social&color=white)](https://github.com/vostride/agent-qa/stargazers)
+* **Description:** Local AI QA agent with post-run cause digests for its own web, Android and iOS tests; review failures through the CLI, dashboard or MCP.
+* **Tech Stack:** TypeScript, Node.js 24+; a configured model and test environment.
+* **License:** FSL-1.1-ALv2; $0 software for permitted local use, with model/compute/device and optional remote-service costs separate.
+* **Key Strengths:** Persistent memidex memory, validated self-improvement, and recorded steps, screenshots, console and network evidence for failure diagnosis and verdict feedback.
+
+### 6. [pytest-rerunfailures](https://github.com/pytest-dev/pytest-rerunfailures) [![GitHub_Stars](https://img.shields.io/github/stars/pytest-dev/pytest-rerunfailures?style=social&color=white)](https://github.com/pytest-dev/pytest-rerunfailures/stargazers)
 * **Description:** Essential Pytest plugin that automatically re-runs failed tests up to *N* times to eliminate intermittent and environment-induced flaky test failures, providing detailed rerun reports.
 * **Tech Stack:** Python, Pytest.
 * **License:** Mozilla Public License 2.0 (MPL-2.0).
 * **Key Strengths:** Lightweight, instant CI integration to prevent build pipeline gridlock caused by transient environmental flakes.
 
-### 6. [AI CI/CD Failure Triage Agent](https://github.com/Vasishtha15/ai-cicd-failure-triage-agent) [![GitHub_Stars](https://img.shields.io/github/stars/Vasishtha15/ai-cicd-failure-triage-agent?style=social&color=white)](https://github.com/Vasishtha15/ai-cicd-failure-triage-agent/stargazers)
+### 7. [AI CI/CD Failure Triage Agent](https://github.com/Vasishtha15/ai-cicd-failure-triage-agent) [![GitHub_Stars](https://img.shields.io/github/stars/Vasishtha15/ai-cicd-failure-triage-agent?style=social&color=white)](https://github.com/Vasishtha15/ai-cicd-failure-triage-agent/stargazers)
 * **Description:** Autonomous GitHub Actions agent that analyzes CI/CD pipeline failures (unit/e2e tests, linter issues, dependencies, Docker build errors) using Anthropic Claude/OpenAI and posts structured root cause analysis with code fix suggestions directly onto PRs.
 * **Tech Stack:** TypeScript, GitHub Actions Toolkit, LLM API.
 * **License:** MIT.
 * **Key Strengths:** Plug-and-play GitHub Action; writes actionable root-cause comments directly onto developer pull requests.
 
-### 7. [TestTriage](https://github.com/subhashkhileri/TestTriage) [![GitHub_Stars](https://img.shields.io/github/stars/subhashkhileri/TestTriage?style=social&color=white)](https://github.com/subhashkhileri/TestTriage/stargazers)
+### 8. [TestTriage](https://github.com/subhashkhileri/TestTriage) [![GitHub_Stars](https://img.shields.io/github/stars/subhashkhileri/TestTriage?style=social&color=white)](https://github.com/subhashkhileri/TestTriage/stargazers)
 * **Description:** RAG-powered automated test failure triage agent specifically tailored for Playwright e2e and CI pipelines. Ingests GCS logs and failure artifacts, uses multi-modal AI vision to parse failure screenshots, diagnoses the root cause, and auto-files Jira tickets with fix proposals.
 * **Tech Stack:** Python, Playwright, LangChain/RAG, Vision LLMs.
 * **License:** MIT.
